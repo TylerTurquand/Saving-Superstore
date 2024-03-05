@@ -23,5 +23,7 @@ Vermont - Best Month: November, maximum ad spend: $119.19
 Return rates were found for individual products and customers. However, after further analysis, it was shown that there wasn't a big correlation between average return rates and average revenue per category.
 
 ## Technology Used
-### Google Sheets
-### Tableau
+
+Google Sheets
+
+Tableau
