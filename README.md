@@ -2,10 +2,13 @@
 
 ## Overview
 
-The project entails a comprehensive analysis of the superstore's operational performance across three key dimensions.
-In Part 1, the focus is on identifying profit and loss centers by analyzing various pairs of dimensions, like region and category. Bar graphs are utilized to justify conclusions and determine products and product subcategories that should be discontinued or emphasized. 
-Part 2 delves into assessing the viability of advertising by identifying optimal state-month combinations for maximum return on ad spend. 
-Part 3 involves analyzing return rates of products and customers to determine potential anomalies and their impact on profitability. Visualizations are employed to provide insights into the relationship between average profit and return rates, aiding in strategic decision-making for the superstore.
+This project entails a comprehensive analysis of the superstore's operational performance across multiple key dimensions. The results aim to offer suggestions to improve the superstore's profitability and save it from bankruptcy.
+
+## The Process
+
+In Part 1, the focus was on identifying profit and loss centers by analyzing various pairs of dimensions, like region and category. Bar graphs were utilized to justify conclusions and determine products and product subcategories that should be discontinued or emphasized. 
+Part 2 delves into assessing the viability of advertising by identifying optimal state-month combinations for maximum return on ads. Bar graphs were used to find the top three states based on highest average revenue. These three states were then further analyzed to find the most profitable months in each state. 1/5th of the average profit of the best month for each state was used as the recommendation for the maximum amount the superstore should spend on ads then.
+Part 3 involves analyzing return rates of products and customers to determine potential anomalies and their impact on profitability. Visualizations are employed to provide insights into the relationship between average profit and return rates.
 
 ## Results
 ### Part 1 
