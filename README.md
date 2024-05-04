@@ -7,8 +7,8 @@ This project entails a comprehensive analysis of a superstore's operational perf
 ## The Process
 
 In Part 1, the focus was on identifying profit and loss centers by analyzing various pairs of dimensions, like region and category. Bar graphs were utilized to justify conclusions and determine products and product subcategories that should be discontinued or emphasized. 
-Part 2 delves into assessing the viability of advertising by identifying optimal state-month combinations for maximum return on ads. Bar graphs were used to find the top three states based on highest average revenue. These three states were then further analyzed to find the most profitable months in each state. 1/5th of the average profit of the best month for each state was used as the recommendation for the maximum amount the superstore should spend on ads there.
-Part 3 involves analyzing return rates of products and customers to determine potential anomalies and their impact on profitability. Visualizations are employed to provide insights into the relationship between average profit and return rates.
+Part 2 delved into assessing the viability of advertising by identifying optimal state-month combinations for maximum return on ads. Bar graphs were used to find the top three states based on highest average revenue. These three states were then further analyzed to find the most profitable months in each state. 1/5th of the average profit of the best month for each state was used as the recommendation for the maximum amount the superstore should spend on ads there.
+Part 3 involved analyzing return rates of products and customers to determine potential anomalies and their impact on profitability. Visualizations were employed to provide insights into the relationship between average profit and return rates.
 
 ## Results
 ### Part 1 
